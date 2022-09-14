@@ -1,6 +1,8 @@
 # **Bank-Marketing-Effectiveness-Prediction**
 ## **Creating a model to predict if the client will subscribe a term deposit.**
 
+Tags: Data Science, Data Analysis, Machine Learning, Logistics regression, Class Imabalance.
+
 
 ![glenn-carstens-peters-npxXWgQ33ZQ-unsplash](https://user-images.githubusercontent.com/71922973/190118661-88391353-35cc-48a0-b211-fc5fa2c0897c.jpg)
 
