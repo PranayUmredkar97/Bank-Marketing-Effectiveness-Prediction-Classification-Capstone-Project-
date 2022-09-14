@@ -25,6 +25,6 @@ After that we perform feature engineering, in feature engineering we created som
 
 After feature engineering we selected feature to use to train our model and encoded categorical variables as ML model works with numerical data to do computation. We used label encoding and one hot encoding.
 
-As our data was highly Imabalnce We used Random Over Sampler Technique to balance our training set before training model. Finally we started the machine learning part on the choosen feature subsets, did cross validation for each of the models' hyperparameters and recorded the performance in each case into a compact dataframe. The evaluation metrics we chose for our project include roc_auc score, precision, recall, f1-score
+As our data was highly Imbalance, We used Random Over Sampler Technique to balance our training set before training model. Finally we started the machine learning part on the choosen feature subsets, did cross validation for each of the models' hyperparameters and recorded the performance in each case into a compact dataframe. The evaluation metrics we chose for our project include roc_auc score, precision, recall, f1-score
 Benchmarked XGBoost Classifier algorithm against Logistic Regression, Decision Tree and Random Forest.
 
