@@ -31,7 +31,7 @@ In EDA we divided analysis into several part to get better idea about data like 
 
 **Feature Engineering**
 
-After that we perform feature engineering, in feature engineering we created some new feature form available features with the goal of simplifying and speeding up data transformation while also improving model performance. Then we used oversampling technique to handle class imbalance to make classes even for training model. As our data was highly Imbalance, We used Random Over Sampler Technique to balance our training set before training model.
+After that we perform feature engineering, in feature engineering we created some new feature from available features with the goal of simplifying and speeding up data transformation while also improving model performance. Then we used oversampling technique to handle class imbalance to make classes even for training model. As our data was highly Imbalance, We used Random Over Sampler Technique to balance our training set before training model.
 
 After feature engineering we selected feature to use to train our model and encoded categorical variables as ML model works with numerical data to do computation. We used label encoding and one hot encoding.
 
