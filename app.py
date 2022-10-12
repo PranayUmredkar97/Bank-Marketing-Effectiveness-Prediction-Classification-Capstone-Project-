@@ -55,7 +55,7 @@ campaign = [1,2,3,5,4,6,7,8,9,10,11,12,13,19,14,24,16,32,18,22,15,17,25,21,43,51
 previous = [0,3,1,4,2,11,16,6,5,10,12,7,18,9,21,8,14,15,26,37,13,25,20,27,17,23,38,29,24,51,275,22,19,
             30,58,28,32,40,55,35,41]
 
-st.title('Term Deposit Bank Service Predictor')
+st.title('Bank Term Deposit Service Predictor')
 
 col1, col2 = st.columns(2)
 
