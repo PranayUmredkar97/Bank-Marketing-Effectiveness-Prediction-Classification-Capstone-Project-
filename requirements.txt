@@ -1,0 +1,5 @@
+xgboost == 1.6.1
+streamlit
+sklearn
+numpy
+pandas
